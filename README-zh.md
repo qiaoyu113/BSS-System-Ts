@@ -212,7 +212,7 @@ npm run lint -- --fix
 
 在`git rebase`的操作示例：
 
-![前端Git提交规范之Rebase演示流程](http://dev.xunhuji.me:18095/pages/viewpage.action?pageId=77988210)
+[前端Git提交规范之Rebase演示流程](http://dev.xunhuji.me:18095/pages/viewpage.action?pageId=77988210)
 
 ## License
 
