@@ -205,13 +205,14 @@ npm run lint -- --fix
 - 备注：
 如不符合规范不予merge，需要大家修改为正确git提交记录再merge。
 
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+```
+
 # git rebase示例
 
 在`git rebase`的操作示例：
 
 ![前端Git提交规范之Rebase演示流程](http://dev.xunhuji.me:18095/pages/viewpage.action?pageId=77988210)
-
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 
 ## License
 
