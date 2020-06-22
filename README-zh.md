@@ -11,7 +11,7 @@
 | ------ | ------ |
 | 乔宇 | 527324363@qq.com |
 
-## 开发
+## 命令
 
 ```bash
 # 克隆项目
@@ -82,7 +82,7 @@ yarn run svg
 └── vue.config.js              # vue-cli 配置
 ```
 
-## 设置以及启动项目
+## 其他命令
   
 ```bash
 # --report to build with bundle size analytics
@@ -210,9 +210,7 @@ npm run lint -- --fix
 
 ## git rebase示例
 
-在`git rebase`的操作示例：
-
-[前端Git提交规范之Rebase演示流程](http://dev.xunhuji.me:18095/pages/viewpage.action?pageId=77988210)
+在`git rebase`的操作示例：(http://dev.xunhuji.me:18095/pages/viewpage.action?pageId=77988210)
 
 ## License
 

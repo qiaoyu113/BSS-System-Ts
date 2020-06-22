@@ -11,7 +11,7 @@
 | ------ | ------ |
 | 乔宇 | 527324363@qq.com |
 
-## 开发
+## 命令
 
 ```bash
 # 克隆项目
@@ -82,7 +82,7 @@ yarn run svg
 └── vue.config.js              # vue-cli 配置
 ```
 
-## 设置以及启动项目
+## 其他命令
   
 ```bash
 # --report to build with bundle size analytics
