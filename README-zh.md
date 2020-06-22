@@ -208,7 +208,7 @@ npm run lint -- --fix
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 ```
 
-# git rebase示例
+## git rebase示例
 
 在`git rebase`的操作示例：
 
